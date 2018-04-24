@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import org.hyperledger.indy.sdk.pool.Pool;
 
 public class MainActivity extends AppCompatActivity {
 
